@@ -1,0 +1,3 @@
+Numero de filas y Numero de columnas de n1.txt son: , .
+Numero de filas y Numero de columnas de n1.txt son: , .
+Numero de filas y Numero de columnas de n1.txt son: , .
